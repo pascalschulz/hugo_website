@@ -1,15 +1,16 @@
-baseURL = "http://example.com/"
+baseURL = "https://pascalschulz,at"
 languageCode = "en-us"
-title = "Minimal"
+title = "PascalSec"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "pascalschulz.github.io"
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "Blog to come..."
     githubUsername = "#"
-    accent = "red"
+    accent = "green"
     showBorder = true
     backgroundColor = "white"
     font = "Raleway" # should match the name on Google Fonts!
@@ -52,7 +53,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/PascalSec"
     name = "twitter"
     weight = 3
 
